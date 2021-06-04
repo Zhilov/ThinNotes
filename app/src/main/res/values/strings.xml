@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Thin Notes</string>
+    <string name="add">Add</string>
+    <string name="delete">Delete</string>
+    <string name="nothing_to_show">Nothing to show</string>
+    <string name="write_a_title_non_required">Write a title... (Non required)</string>
+    <string name="write_a_text">Write a text...</string>
+</resources>
